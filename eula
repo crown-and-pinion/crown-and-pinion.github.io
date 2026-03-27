@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>End User License Agreement | Crown & Pinion</title>
+    <style>
+        :root {
+            --bg-color: #050505;
+            --text-color: #f5f5f5;
+            --accent-color: #d4af37;
+            --muted-text: #aaaaaa;
+        }
+        
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            margin: 0;
+            padding: 40px 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .container {
+            max-width: 800px;
+            background-color: #111111;
+            padding: 40px;
+            border-radius: 8px;
+            border: 1px solid #222;
+        }
+
+        h1 {
+            color: var(--accent-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 1px solid #333;
+            padding-bottom: 15px;
+            margin-top: 0;
+        }
+
+        h2 {
+            color: #e5e5e5;
+            margin-top: 30px;
+            font-size: 1.2rem;
+        }
+
+        p, li {
+            color: var(--muted-text);
+            font-size: 1rem;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        a {
+            color: var(--accent-color);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        .back-link {
+            margin-top: 30px;
+            display: inline-block;
+            font-weight: bold;
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+        <h1>End User License Agreement (EULA)</h1>
+        <p><strong>Last Updated:</strong> March 27, 2026</p>
+
+        <p>This End User License Agreement ("Agreement") is a legal agreement between you and Crown & Pinion ("we", "us", or "our") for the use of our Wear OS watch faces and related software applications ("Software").</p>
+        
+        <p>By downloading, installing, or using the Software, you agree to be bound by the terms of this Agreement. Always give permission and consent to these terms before using the Software. If you do not agree, do not install or use the Software.</p>
+
+        <h2>1. License Grant</h2>
+        <p>Crown & Pinion grants you a personal, non-exclusive, non-transferable, and limited license to install and use the Software on compatible Wear OS devices that you own or control, strictly in accordance with this Agreement.</p>
+
+        <h2>2. Intellectual Property Rights</h2>
+        <p>All title, ownership rights, and intellectual property rights in and to the Software—including but not limited to graphics, designs, horological layouts, code, and animations—remain the exclusive property of Crown & Pinion. The Software is licensed, not sold.</p>
+
+        <h2>3. Restrictions</h2>
+        <p>You agree not to, and you will not permit others to:</p>
+        <ul>
+            <li>License, sell, rent, lease, assign, distribute, or financially exploit the Software.</li>
+            <li>Modify, reverse engineer, decompile, decode, or disassemble the Software.</li>
+            <li>Extract or repurpose any graphics, images, or assets from the Software for other projects.</li>
+            <li>Remove, alter, or obscure any proprietary notices or watermarks.</li>
+        </ul>
+
+        <h2>4. Disclaimer of Warranties</h2>
+        <p>The Software is provided "AS IS" and "AS AVAILABLE" without warranty of any kind. Crown & Pinion does not guarantee that the Software will be error-free or uninterrupted. We specifically disclaim any liability for excessive battery drain, software conflicts, or hardware issues (such as screen burn-in) on your device.</p>
+
+        <h2>5. Limitation of Liability</h2>
+        <p>In no event shall Crown & Pinion be liable for any incidental, special, indirect, or consequential damages whatsoever arising out of or related to your use of or inability to use the Software, however caused, regardless of the theory of liability.</p>
+
+        <h2>6. Termination</h2>
+        <p>This Agreement is effective until terminated. Your rights under this Agreement will terminate automatically without notice from Crown & Pinion if you fail to comply with any of its terms. Upon termination, you must cease all use of the Software and delete all copies from your devices.</p>
+
+        <h2>7. Contact Information</h2>
+        <p>If you have any questions about this Agreement, please contact us at: [Insert Your Support Email Here]</p>
+
+        <a href="index.html" class="back-link">← Return to Home</a>
+    </div>
+
+</body>
+</html>
