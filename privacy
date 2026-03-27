@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Crown and Pinion</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0 auto;
+            max-width: 800px;
+            padding: 20px;
+            color: #333;
+        }
+        h1, h2 {
+            color: #222;
+        }
+        a {
+            color: #0066cc;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy</h1>
+    <p><strong>Effective Date:</strong> [Insert Date, e.g., March 27, 2026]</p>
+
+    <p>This Privacy Policy applies to the Wear OS watch face applications ("Apps") created by Crown and Pinion. We are committed to protecting your privacy and ensuring you understand how your information is handled when using our watch faces.</p>
+
+    <h2>1. Information We Collect and Use</h2>
+    <p>Our core philosophy is to collect as little data as possible. Crown and Pinion does not maintain servers to collect, store, or transmit your personal data.</p>
+    <ul>
+        <li><strong>Health and Sensor Data:</strong> If our watch faces display health metrics (such as heart rate, step count, or calories burned), this data is accessed directly from your device's local sensors or Google Fit integration. <strong>This data is processed locally on your watch and is never transmitted to us or any third-party servers.</strong></li>
+        <li><strong>Location Data:</strong> If a watch face requires location data to display weather information, this data is processed locally on your device to fetch weather updates and is not stored or tracked by Crown and Pinion.</li>
+    </ul>
+
+    <h2>2. In-App Purchases and Financial Data</h2>
+    <p>Our Apps offer premium features or licenses via In-App Purchases. All transactions are securely processed by the <strong>Google Play Billing Library</strong>. Crown and Pinion does not collect, process, or have access to your payment information, credit card details, or banking information. You can review Google's privacy policy to understand how they handle your payment data.</p>
+
+    <h2>3. Third-Party Services</h2>
+    <p>Our Apps utilize Google Play Services to function correctly on the Android/Wear OS platform, facilitate In-App Purchases, and verify licensing. These third-party services may collect data subject to their own privacy policies.</p>
+    <ul>
+        <li><a href="https://policies.google.com/privacy" target="_blank">Google Privacy Policy</a></li>
+        <li><a href="https://play.google.com/about/play-terms/" target="_blank">Google Play Terms of Service</a></li>
+    </ul>
+
+    <h2>4. Children's Privacy</h2>
+    <p>Our Apps do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us, though as stated above, we do not actively collect or store user data.</p>
+
+    <h2>5. Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. The updated policy will be posted on this page with a revised "Effective Date."</p>
+
+    <h2>6. Contact Us</h2>
+    <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:</p>
+    <p><strong>Email:</strong> [Your Support Email Address]</p>
+
+</body>
+</html>
